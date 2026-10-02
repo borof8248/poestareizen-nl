@@ -1,3 +1,9 @@
 /index.php / 301
-/spinjoys-nl/* /spin-joys-nl/:splat 301
-/netherlands-nl/* /spin-joys-nl/:splat 301
+/spinjoys-review-nl/* /spinjoys-nl-nl/:splat 301
+/spinjoys-casino-review-nl/* /spinjoys-nl-nl/:splat 301
+/casino-spinjoys-nl/* /spinjoys-nl-nl/:splat 301
+/spinjoys-casino-nl/* /spinjoys-nl-nl/:splat 301
+/spin-joys-casino-nl/* /spinjoys-nl-nl/:splat 301
+/spin-joys-nl/* /spinjoys-nl-nl/:splat 301
+/spinjoys-nl/* /spinjoys-nl-nl/:splat 301
+/netherlands-nl/* /spinjoys-nl-nl/:splat 301
